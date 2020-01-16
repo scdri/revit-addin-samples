@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Sample01</Name>
+    <Assembly>Sample01.dll</Assembly>
+    <AddInId>ad9e82cb-d75d-4f59-9660-ea35088ad8ed</AddInId>
+    <FullClassName>Sample01.App</FullClassName>
+    <VendorId>SCDRI</VendorId>
+    <VendorDescription>SCDRI</VendorDescription>
+  </AddIn>
+</RevitAddIns>
