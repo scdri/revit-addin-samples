@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "zwj", "zwj", "{8F971D12-68A2-4E0B-8043-802CD065A35C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ribbon", "Ribbon\Ribbon.csproj", "{408882B8-3B48-46A9-B3A6-E99CBA467D96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,9 +24,16 @@ Global
 		{3BEC7CDA-04D7-4D38-8BFE-579F4FB75365}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BEC7CDA-04D7-4D38-8BFE-579F4FB75365}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BEC7CDA-04D7-4D38-8BFE-579F4FB75365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{408882B8-3B48-46A9-B3A6-E99CBA467D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408882B8-3B48-46A9-B3A6-E99CBA467D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{408882B8-3B48-46A9-B3A6-E99CBA467D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408882B8-3B48-46A9-B3A6-E99CBA467D96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{408882B8-3B48-46A9-B3A6-E99CBA467D96} = {8F971D12-68A2-4E0B-8043-802CD065A35C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0F9FEDBB-BA66-49A9-9F0D-8DD30C06515E}
