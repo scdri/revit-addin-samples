@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <RevitAddIns>
   <AddIn Type="Application">
-    <Name>RibbonTabAndButton</Name>
-    <Assembly>C:\Users\Administrator\source\repos\RibbonTabAndButton\ribbontabandbutton\bin\Debug\ribbontabandbutton.dll</Assembly>
-    <AddInId>6C7ED93A-FF9C-49B9-8CA3-2308E99BC747</AddInId>
+    <Name>RevitAddinSamples</Name>
+    <Assembly>E:\Projects\revit-addin-samples\ribbontabandbutton\bin\Debug\ribbontabandbutton.dll</Assembly>
+    <AddInId>93AB5912-E8F6-4DC0-A9AE-4ABE954E2B9F</AddInId>
     <FullClassName>ribbontabandbutton.Class1</FullClassName>
     <VendorId>SCDRI</VendorId>
-    <VendorDescription>SCDRI</VendorDescription>
+    <VendorDescription>SCDRI</VendorDescription>  
   </AddIn>
 </RevitAddIns>
 

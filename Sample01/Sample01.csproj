@@ -33,11 +33,11 @@
   <ItemGroup>
     <Reference Include="PresentationCore" />
     <Reference Include="RevitAPI">
-      <HintPath>..\..\..\RevitDev\RevitAPI.dll</HintPath>
+      <HintPath>F:\revit2019\Revit 2019\RevitAPI.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="RevitAPIUI">
-      <HintPath>..\..\..\RevitDev\RevitAPIUI.dll</HintPath>
+      <HintPath>F:\revit2019\Revit 2019\RevitAPIUI.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
