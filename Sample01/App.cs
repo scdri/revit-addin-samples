@@ -17,6 +17,7 @@ namespace Sample01
             // 当前程序集的路径
             var assemblyPath = Assembly.GetExecutingAssembly().Location;
 
+
             // 创建一个Tab
             var tabName = "自定义";
             application.CreateRibbonTab(tabName);
